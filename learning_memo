@@ -2,3 +2,8 @@ What I did today.
 -instantowpについて
 -python、sqlite3のインストール
 -webテンプレート探し
+
+what i did today.
+-python,mysqlのインストール
+-コマンドは以下
+--mysqlのインストールを実施する時のコマンド：brew install mysql（MAC環境のターミナルでコマンド）
